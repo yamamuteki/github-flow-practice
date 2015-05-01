@@ -30,3 +30,5 @@ public class Program
   }
 }
 ```
+
+GitHub にも慣れてきた！
